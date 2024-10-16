@@ -42,4 +42,5 @@ This project is licensed under the MIT License.
 ## Demo
 
 Watch the demo video below to see the custom cursor in action:
+
 [Customer Cursor.webm](https://github.com/user-attachments/assets/278193cf-9155-4df8-b7e4-61e7173c645c)
