@@ -2,6 +2,8 @@
 
 This project demonstrates how to create a custom cursor using HTML, CSS, and JavaScript. The default cursor is replaced with a dynamic cursor that smoothly follows the user's mouse movements across the webpage.
 
+![image](https://github.com/user-attachments/assets/8951d306-7c7e-42a1-9a55-be235ee3c5b6)
+
 ## Features
 
 - Custom cursor design
