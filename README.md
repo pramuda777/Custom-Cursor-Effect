@@ -19,7 +19,7 @@ Hover over the page to see the custom cursor in action!
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/custom-cursor-effect.git
+    git clone hhttps://github.com/pramuda777/Custom-Cursor-Effect.git
     ```
 
 2. Open `index.html` in your web browser to see the effect.
